@@ -1,2 +1,2 @@
 # credit-scoring
-solving famous credit scoring problem using ML
+solving well-known credit scoring problem using ML
